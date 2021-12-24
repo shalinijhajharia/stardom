@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stardom/static/css/main.38802b3e.css",
+    "main.js": "/stardom/static/js/main.1e410c8b.js",
+    "index.html": "/stardom/index.html",
+    "main.38802b3e.css.map": "/stardom/static/css/main.38802b3e.css.map",
+    "main.1e410c8b.js.map": "/stardom/static/js/main.1e410c8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38802b3e.css",
+    "static/js/main.1e410c8b.js"
+  ]
+}
